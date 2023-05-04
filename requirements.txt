@@ -1,3 +1,4 @@
 azure-core
 azure-ai-formrecognizer
 python-dotenv
+base64
